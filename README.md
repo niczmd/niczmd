@@ -14,10 +14,10 @@ Saudações! Sou um entusiasta da programação e estudante na UFSC, localizada 
 
 ### 📞 Meu Contato
 - [E-mail](mailto:nicolas.mchiesa@gmail.com) <br/>
-- [LinkedIn](https://www.linkedin.com/in/n1colasmedeir0s/) <br/>
+- [LinkedIn](https://www.linkedin.com/in/niczmd/) <br/>
 - [Instagram](https://www.instagram.com/_niczmd_/) <br/>
 
 Estou aberto a colaborações em projetos interessantes. Se você tem ideias ou está buscando um parceiro de desenvolvimento, sinta-se à vontade para entrar em contato.
 
 ### 📈 Minhas Estastísticas
-![Suas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=NkZM4sk&show_icons=true&theme=transparent&locale=pt-br&title_color=483D8B&icon_color=483D8B)
+![Suas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=niczmd&show_icons=true&theme=transparent&locale=pt-br&title_color=483D8B&icon_color=483D8B)
